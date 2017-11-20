@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="set_wallpaper_items">
-        <item>Set screen</item>
-        <item>Set wallpaper</item>
-        <item>Set Screen And Wallpaper</item>
+        <item>Ekranı Ayarla</item>
+        <item>Duvar Kağıdı Ayarla</item>
+        <item>Ekran Ve Duvar Kağıdını Ayarlayın</item>
         <item>@string/cancel</item>
     </string-array>
 </resources>
