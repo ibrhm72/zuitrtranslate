@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="crop_wallpaper">Crop wallpaper</string>
-    <string name="wallpaper_instructions">Set wallpaper</string>
-    <string name="wallpaper_load_fail">"Couldn't load image as wallpaper"</string>
-    <string name="move_and_scale">Move and Scale</string>
-    <string name="cancel">Cancel</string>
-    <string name="choose">Choose</string>
-    <string name="set">Set</string>
-    <string name="setting_wallpaer">Setting wallpaper</string>
-    <string name="on_loading">Loading image…</string>
-    <string name="setting_success">Success</string>
-    <string name="click_preview">Click Preview</string>
+    <string name="crop_wallpaper">Duvar Kağıdını Kırp</string>
+    <string name="wallpaper_instructions">Duvar Kağıdını Ayarla</string>
+    <string name="wallpaper_load_fail">"Resim duvar kağıdı olarak yüklenemedi"</string>
+    <string name="move_and_scale">Taşı ve Ölçekle</string>
+    <string name="cancel">İptal</string>
+    <string name="choose">Seç</string>
+    <string name="set">Ayarla</string>
+    <string name="setting_wallpaer">Duvar Kağıdı Ayarla</string>
+    <string name="on_loading">Resim Yükleniyor…</string>
+    <string name="setting_success">Başarılı</string>
+    <string name="click_preview">Önizleme</string>
 </resources>
